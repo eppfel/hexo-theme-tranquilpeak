@@ -187,8 +187,8 @@ favicon:
 image_gallery: true
 # Pagination behavior of archive, category and tag pages (false: pagination disabled, true: pagination enabled)
 archive_pagination: true
-category_pagination: false
-tag_pagination: false
+category_pagination: true
+tag_pagination: true
 
 # ---------------
 # Comment systems
