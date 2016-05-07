@@ -37,12 +37,12 @@
     .post-header {
         display:        table-cell;
         vertical-align: middle;
+        background: linear-gradient(to bottom, rgba(0,0,32,0.01) 0%,rgba(0,0,16,.4) 50%,rgba(0,0,32,0.01) 100%);
 
         .post-title {
             max-width:     map-get($main-content, 'max-width');
             margin:        0 auto;
             color:         white;
-            text-shadow:   0 2px 0 rgba(0, 0, 0, 0.9);
             margin-bottom: 20px;
 
             &:hover {
@@ -57,7 +57,6 @@
             color:          white !important;
             font-weight:    400;
             letter-spacing: 0.05em;
-            text-shadow:    0 1px 0 rgba(0, 0, 0, 0.9);
             margin:         0 auto;
 
             a {
