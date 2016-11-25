@@ -17,7 +17,16 @@
 
     .postShorten-thumbnailimg {
         overflow:hidden;
+
+        img {
+            filter: blur(5px);
+        }
     }
+
+    &:hover img {
+        filter: none;
+    }
+
     .postShorten-header {
         .postShorten-title {
             margin:     0;
