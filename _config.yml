@@ -57,10 +57,6 @@ sidebar:
             url: "#about"
             icon: fa fa-question
     author_links:
-        github:
-            title: global.github
-            url: https://github.com/eppfel
-            icon: fab fa-github
         # stack_overflow:
         #     title: global.stack_overflow
         #     url: http://stackoverflow.com/users
@@ -69,6 +65,18 @@ sidebar:
             title: global.twitter
             url: https://twitter.com/eppfel
             icon: fab fa-twitter
+        linked_in:
+            title: global.linkedin
+            url: https://www.linkedin.com/in/felixepp
+            icon: fab fa-linkedin
+        research_gate:
+            title: global.researchgate
+            url: https://www.researchgate.net/profile/Felix_Epp
+            icon: fab fa-researchgate
+        github:
+            title: global.github
+            url: https://github.com/eppfel
+            icon: fab fa-github
         facebook:
             title: global.facebook
             url: https://facebook.com/felix.epp
@@ -77,10 +85,6 @@ sidebar:
         #     title: global.google_plus
         #     url: https://plus.google.com/
         #     icon: fab fa-google-plus
-        linked_in:
-            title: global.linkedin
-            url: https://www.linkedin.com/in/felixepp
-            icon: fab fa-linkedin
         # mail:
         #     title: global.mail
         #     url: mailto
@@ -126,7 +130,7 @@ header:
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
     email: blog@felixepp.de
-    location: Darmstadt
+    location: Helsinki, Finland
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
     # or you can use an external url
