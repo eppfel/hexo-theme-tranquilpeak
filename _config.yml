@@ -92,11 +92,11 @@ sidebar:
         instagram:
             title: global.instagram
             url: https://instagram.com/eppfel/
-            icon: fab instagram
+            icon: fab fa-instagram
         lastfm:
             title: global.lastfm
             url: http://www.lastfm.de/user/Phat_X
-            icon: fab lastfm
+            icon: fab fa-lastfm
     # rss:
     #     rss:
     #         title: global.rss
