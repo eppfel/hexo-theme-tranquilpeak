@@ -27,6 +27,7 @@
         .sidebar-profile-picture {
             display: block;
             margin:  0 auto;
+            border:  1.5pt solid map-get($sidebar, color);
         }
         .sidebar-profile-name {
             font-size: 1.1em;
