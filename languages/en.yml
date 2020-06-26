@@ -25,6 +25,8 @@ global:
     linkedin: "LinkedIn"
     mail: "Mail"
     rss: "RSS"
+    instagram: "Instagram"
+    lastfm: "Last.fm"
     share_on_facebook: "Share on Facebook"
     share_on_twitter: "Share on Twitter"
     share_on_google_plus: "Share on Google+"
@@ -80,7 +82,7 @@ post:
         other: "%d images"
 
 author:
-    # Your biography (Markdown and HTML supported)
-    bio: ""
-    # Your job
-    job: ""
+    # Your biography in english (Markdown and HTML supported)
+    bio: "I am an independent interaction designer, developer, media technology educator and hci researcher"
+    # Your job in english
+    job: "M.A. Media Direction"
