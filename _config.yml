@@ -61,10 +61,10 @@ sidebar:
         #     title: global.stack_overflow
         #     url: http://stackoverflow.com/users
         #     icon: fab fa-stack-overflow
-        twitter:
-            title: global.twitter
-            url: https://twitter.com/eppfel
-            icon: fab fa-twitter
+        mastodon:
+            title: global.mastodon
+            url: https://hci.social/@eppfel
+            icon: fab fa-mastodon
         linked_in:
             title: global.linkedin
             url: https://www.linkedin.com/in/felixepp
