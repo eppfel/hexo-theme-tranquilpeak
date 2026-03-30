@@ -13,7 +13,7 @@ global:
     author_picture: "Author's picture"
     publications: "Publications"
     github: "GitHub"
-    stack_overflow: "Stack Overflow"
+    mastodon: "Mastodon"
     twitter: "Twitter"
     facebook: "Facebook"
     google_plus: "Google +"
@@ -85,6 +85,6 @@ post:
 
 author:
     # Your biography in english (Markdown and HTML supported)
-    bio: "Felix A. Epp is a doctoral researcher at [Aalto University](https://www.aalto.fi/en/people/felix-epp) in Human-Computer Interaction and Interaction Design under [Prof. Elisa D. Mekler](https://www.aalto.fi/en/people/elisa-mekler) and [Antti Salovaara](https://people.aalto.fi/antti.salovaara). He investigates how wearable technology can shape our face-to-face social interactions in his thesis work. Further, he develops methods to integrate futures thinking into the technology innovation practice."
+    bio: "I am a transdisciplinary design researcher at the [Department of Design at Aalto University](https://www.aalto.fi/en/people/felix-epp) and the [Social Computing Group at the University of Helsinki](https://www.helsinki.fi/en/researchgroups/social-computing), working at the intersection of HCI, futures studies, and the political dimensions of digital technologies. My work is defined by methodological agility and innovation — moving between psychological, social-scientific, and artistic approaches across domains as varied as web and UX design, automotive interfaces, dress culture, and digital politics. I am particularly interested in how sociotechnical imaginaries and ideologies shape the technologies we live with, and in developing new methods to bring anticipatory and critical perspectives into design and technology innovation. Find my publications on [Google Scholar](https://scholar.google.com/citations?user=BkhScR8AAAAJ&sortby=pubdate)."
     # Your job in english
-    job: "M.A. Media Direction"
+    job: "Postdoctoral Researcher"
