@@ -42,7 +42,11 @@
                             <% if (!link.url.startsWith(config.url) && link.url.includes(':')) { %>
                                 target="_blank"
                             <% } %>
-                            rel="noopener"
+                            <% if (link.url.startsWith("https://hci.social")) { %>
+                                rel="me noopener"
+                            <% } else { %>
+                                rel="noopener"
+                            <% } %>
                             title="<%= __(link.title) %>"
                         >
                         <i class="sidebar-button-icon <%= link.icon %>" aria-hidden="true"></i>
